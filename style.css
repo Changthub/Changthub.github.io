@@ -219,6 +219,7 @@ transform: translateX(5px);
 .socials {
 position: relative;
 margin-top: 7rem;
+text-align: center;
 }
 .socials .social-icons {
 padding-left: 0;
