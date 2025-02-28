@@ -219,7 +219,7 @@ transform: translateX(5px);
 .socials {
 position: relative;
 margin-top: 7rem;
-margin-left: 7rem;
+margin-left: 1rem;
 }
 .socials .social-icons {
 padding-left: 0;
