@@ -219,7 +219,7 @@ transform: translateX(5px);
 .socials {
 position: relative;
 margin-top: 7rem;
-margin-left: 1rem;
+margin-left: 2rem;
 }
 .socials .social-icons {
 padding-left: 0;
@@ -228,7 +228,7 @@ list-style: none;
 }
 .socials .social-icons li {
 background-color: #000;
-border-radius: 1rem;
+border-radius: 2rem;
 display: inline-block;
 margin-bottom: 17px;
 }
